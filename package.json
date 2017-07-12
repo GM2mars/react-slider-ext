@@ -1,7 +1,7 @@
 {
-  "name": "react-image-slider-extended",
+  "name": "react-slider-extended",
   "version": "0.1.1",
-  "description": "Image slider component for React",
+  "description": "Slider component for React",
   "main": "lib/ImageSlider.js",
   "keywords": [
     "react-component",

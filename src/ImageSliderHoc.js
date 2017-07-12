@@ -1,4 +1,5 @@
 import React, { PropTypes } from 'react';
+import './image-slider.css';
 
 export default function ImageSliderHoc(Component) {
   class WrapperComponent extends React.Component {
